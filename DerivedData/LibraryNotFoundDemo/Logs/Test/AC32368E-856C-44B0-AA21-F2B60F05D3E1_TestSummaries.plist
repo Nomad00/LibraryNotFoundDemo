@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<string>1.2</string>
+	<key>RunDestination</key>
+	<dict>
+		<key>LocalComputer</key>
+		<dict>
+			<key>BusSpeedInMHz</key>
+			<integer>100</integer>
+			<key>CPUCount</key>
+			<integer>1</integer>
+			<key>CPUKind</key>
+			<string>Intel Core i7</string>
+			<key>CPUSpeedInMHz</key>
+			<integer>2600</integer>
+			<key>Identifier</key>
+			<string>E956915C-50CA-5668-BAC2-5959298053A5</string>
+			<key>IsConcreteDevice</key>
+			<true/>
+			<key>LogicalCPUCoresPerPackage</key>
+			<integer>8</integer>
+			<key>ModelCode</key>
+			<string>MacBookPro11,3</string>
+			<key>ModelName</key>
+			<string>MacBook Pro</string>
+			<key>ModelUTI</key>
+			<string>com.apple.macbookpro-15-retina-display</string>
+			<key>Name</key>
+			<string>My Mac</string>
+			<key>NativeArchitecture</key>
+			<string>x86_64h</string>
+			<key>OperatingSystemVersion</key>
+			<string>10.11.4</string>
+			<key>OperatingSystemVersionWithBuildNumber</key>
+			<string>10.11.4 (15E65)</string>
+			<key>PhysicalCPUCoresPerPackage</key>
+			<integer>4</integer>
+			<key>Platform</key>
+			<dict>
+				<key>Identifier</key>
+				<string>com.apple.platform.macosx</string>
+				<key>Name</key>
+				<string>OS X</string>
+			</dict>
+			<key>RAMSizeInMegabytes</key>
+			<integer>16384</integer>
+		</dict>
+		<key>Name</key>
+		<string>AWeber's iPhone</string>
+		<key>TargetArchitecture</key>
+		<string>arm64</string>
+		<key>TargetDevice</key>
+		<dict>
+			<key>Identifier</key>
+			<string>e70895bfc760328340f4e149ce2ecb7cb9927f1a</string>
+			<key>IsConcreteDevice</key>
+			<true/>
+			<key>ModelCode</key>
+			<string>iPhone7,1</string>
+			<key>ModelName</key>
+			<string>iPhone 6 Plus</string>
+			<key>ModelUTI</key>
+			<string>com.apple.iphone-6-plus-b4b5b9</string>
+			<key>Name</key>
+			<string>AWeber's iPhone</string>
+			<key>NativeArchitecture</key>
+			<string>arm64</string>
+			<key>OperatingSystemVersion</key>
+			<string>9.3</string>
+			<key>OperatingSystemVersionWithBuildNumber</key>
+			<string>9.3 (13E233)</string>
+			<key>Platform</key>
+			<dict>
+				<key>Identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>Name</key>
+				<string>iOS</string>
+			</dict>
+		</dict>
+		<key>TargetSDK</key>
+		<dict>
+			<key>Identifier</key>
+			<string>iphoneos9.3</string>
+			<key>IsInternal</key>
+			<false/>
+			<key>Name</key>
+			<string>iOS 9.3</string>
+			<key>OperatingSystemVersion</key>
+			<string>9.3</string>
+		</dict>
+	</dict>
+	<key>TestableSummaries</key>
+	<array>
+		<dict>
+			<key>ProjectPath</key>
+			<string>LibraryNotFoundDemo.xcodeproj</string>
+			<key>TargetName</key>
+			<string>LibraryNotFoundDemoTests</string>
+			<key>TestName</key>
+			<string>LibraryNotFoundDemoTests</string>
+			<key>TestObjectClass</key>
+			<string>IDESchemeActionTestableSummary</string>
+			<key>Tests</key>
+			<array/>
+		</dict>
+	</array>
+</dict>
+</plist>

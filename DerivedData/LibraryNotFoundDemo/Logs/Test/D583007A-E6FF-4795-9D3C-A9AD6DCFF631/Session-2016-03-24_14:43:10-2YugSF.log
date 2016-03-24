@@ -1,0 +1,344 @@
+14:43:10.590 Xcode[3646:80136] Beginning test session 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482 with Xcode 7D175 on target <DVTiOSDevice: 0x7fccf8a7b420> {
+		deviceSerialNumber:         F2LNG4VTG5QF
+		identifier:                 e70895bfc760328340f4e149ce2ecb7cb9927f1a
+		deviceClass:                iPhone
+		deviceName:                 AWeber's iPhone
+		deviceIdentifier:           e70895bfc760328340f4e149ce2ecb7cb9927f1a
+		productVersion:             9.3
+		buildVersion:               13E233
+		deviceSoftwareVersion:      9.3 (13E233)
+		deviceArchitecture:         arm64
+		deviceTotalCapacity:        12358692864
+		deviceAvailableCapacity:    9907175424
+		deviceIsTransient:          NO
+		ignored:                    NO
+		deviceIsBusy:               NO
+		deviceIsActivated:          YES
+		deviceActivationState:      Activated
+		deviceType:                 <DVTDeviceType:0x7fccf2ff22a0 Xcode.DeviceType.iPhone>
+		supportedDeviceFamilies:    (
+    1
+)
+		applications:              {(
+    <DTDKApplication: 0x7fccecacd3c0>: TestCocoaPodsIssue (/private/var/containers/Bundle/Application/49D13506-0750-4472-BAB1-7C9DE215E0C8/TestCocoaPodsIssue.app),
+    <DTDKApplication: 0x7fccf78bc3f0>: AWeber Atom (/private/var/containers/Bundle/Application/1BA26530-2080-4FB8-A9A9-58AB8F01B350/iSubscribe.app),
+    <DTDKApplication: 0x7fccecacd370>: Curate (/private/var/containers/Bundle/Application/B5969133-794B-43EA-A484-1A8977C1FB34/iComposer.app)
+)}
+		provisioningProfiles:      {(
+    0a37b9bb-5519-4b4b-80fb-f4c58e8cb3b7,
+    e9e07421-ff85-458a-accf-282ad87b0168,
+    f152c0f1-8496-42bd-8d50-afbbc82bb2fb,
+    29680d8b-53ab-4f40-bb3d-cf10a7914143,
+    3c38123b-083b-4553-a813-302bf6a82606,
+    002247d1-7d22-4796-9f58-4f0483f881ee,
+    1758d3b6-ebd0-41b8-9027-401cae820efe,
+    349fc6e4-47e4-4a84-a6d6-440c47cae466,
+    2074b244-0586-4a99-af4a-034f089062a4,
+    767abfa6-22a8-4c79-99b6-cc5499e74221
+)}
+		activityProgress:          -2
+		activityTitle:             
+		hasInternalSupport:        NO
+		isSupportedOS:             YES
+		developerDiskMountError:   (null)
+(null)
+	} (9.3 (13E233))
+14:43:10.590 Xcode[3646:80136] Launching with Xcode.DebuggerFoundation.Launcher.LLDB
+14:43:10.590 Xcode[3646:80136] Initializing test infrastructure.
+14:43:10.714 Xcode[3646:633592] Creating the connection.
+14:43:10.714 Xcode[3646:633592] Listening for proxy connection request from the test bundle (all platforms)
+14:43:10.714 Xcode[3646:633592] Resuming the connection.
+14:43:10.714 Xcode[3646:633592] Test connection requires daemon assistance.
+14:43:10.714 Xcode[3646:80136] Checking test manager availability..., will wait up to 120s
+14:43:10.714 Xcode[3646:80136] Starting test session with ID <__NSConcreteUUID 0x7fccf7d43b40> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482
+14:43:10.744 Xcode[3646:628641] testmanagerd handled session request.
+14:43:10.744 Xcode[3646:80136] Waiting for test process to launch.
+14:43:20.252 Xcode[3646:80136] Launch session started, setting a disallow-finish-token on the run operation.
+14:43:20.404 Xcode[3646:633437] app uninstall set - {(
+)}
+14:43:20.404 Xcode[3646:633437] app install set - {(
+    <DVTFilePath:0x7fccf7ddae50:'/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/LibraryNotFoundDemo.app'>
+)}
+14:43:24.773 Xcode[3646:633368] remoteExecutable setInstalledPath:/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app
+
+14:43:24.773 Xcode[3646:633368] Updated test configuration with device paths: <XCTestConfiguration: 0x7fccfa2e2f70>
+	                  testBundleURL:file:///private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/PlugIns/LibraryNotFoundDemoTests.xctest
+	         testBundleRelativePath:(null)
+	              productModuleName:LibraryNotFoundDemoTests
+	                    testsToSkip:(null)
+	                     testsToRun:(null)
+	             reportResultsToIDE:YES
+	              sessionIdentifier:<__NSConcreteUUID 0x7fccf7d43b40> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482
+	     pathToXcodeReportingSocket:(null)
+	      disablePerformanceMetrics:no
+	treatMissingBaselinesAsFailures:no
+	                baselineFileURL:(null)
+	       baselineFileRelativePath:(null)
+	          targetApplicationPath:(null)
+	      targetApplicationBundleID:(null)
+	               reportActivities:no
+	       testsMustRunOnMainThread:no
+	         initializeForUITesting:no
+
+14:43:24.965 Xcode[3646:633368] Uploaded test configuration directory from: /var/folders/2f/wb6gd8fx3c985t58dwlt1cb8000246/T/com.apple.dt.XCTest/8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482/remote-container
+14:43:24.965 Xcode[3646:633368] Updated testing environment variables {
+    "DTX_CONNECTION_SERVICES_PATH" = "/Developer/Library/PrivateFrameworks/DTXConnectionServices.framework";
+    "DYLD_FRAMEWORK_PATH" = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/Frameworks:/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks";
+    "DYLD_INSERT_LIBRARIES" = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/Frameworks/IDEBundleInjection.framework/IDEBundleInjection";
+    "DYLD_LIBRARY_PATH" = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/Frameworks:/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks";
+    "OBJC_DISABLE_GC" = YES;
+    XCInjectBundleInto = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/LibraryNotFoundDemo";
+    "XCODE_DBG_XPC_EXCLUSIONS" = "com.apple.dt.xctestSymbolicator";
+    XCTestConfigurationFilePath = "/private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C/tmp/LibraryNotFoundDemoTests-8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482.xctestconfiguration";
+}
+14:43:26.098 Xcode[3646:637578] Started debugserver on device. fd = 110
+14:43:26.987 Xcode[3646:80136] Adding console adaptor <IDEConsoleAdaptor: 0x7fccefff9a20 'target'> for test session 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482.
+14:43:29.446 Xcode[3646:80136] Launch session finished initial intensive file IO.
+14:43:29.446 Xcode[3646:80136] Waiting for test process to check in..., will wait up to 120s
+14:43:31.670 Xcode[3646:633437] Got proxy channel request from test bundle
+14:43:31.671 Xcode[3646:633437] Test bundle is ready, running protocol 16, requires at least version 8. IDE is running 16 and requires at least 8
+14:43:31.671 Xcode[3646:638767] Creating secondary transport and connection for whitelisting test process PID.
+14:43:31.790 Xcode[3646:638767] Creating the connection.
+14:43:31.791 Xcode[3646:638767] Resuming the secondary connection.
+14:43:31.791 Xcode[3646:638767] Whitelisting test process ID 942
+14:43:10.754 testmanagerd[936:119547] Launched testmanagerd from /Developer/usr/libexec/testmanagerd, built at Friday, February 19, 2016 at 7:50:51 PM Eastern Standard Time
+14:43:10.755 testmanagerd[936:119547] Setting availability state.
+14:43:10.755 testmanagerd[936:119547] Posting availability to test bundles...
+14:43:10.757 testmanagerd[936:119549] IDE connected via lockdown over socket 5 (__54-[XCTestManagerIDEServer initWithLockdownServiceName:]_block_invoke)
+14:43:10.757 testmanagerd[936:119549] Created session with socket 5
+14:43:10.762 testmanagerd[936:119559] Handled a proxy request from the IDE with session <XCIDESession: 0x14fd17d10> proxy <_DTXProxy: 0x14fd1c930>
+14:43:10.762 testmanagerd[936:119547] __84-[XCIDESession _IDE_initiateSessionWithIdentifier:forClient:atPath:protocolVersion:]_block_invoke <__NSConcreteUUID 0x14fd02ff0> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482 1 5 from client F1850C53-5350-430C-A206-1F510F4F56FC-3646-0000007BC9921782 (/Applications/Xcode.app)
+14:43:10.762 testmanagerd[936:119549] __45-[XCTestManager setIDESession:forIdentifier:]_block_invoke <XCIDESession: 0x14fd17d10> -> <__NSConcreteUUID 0x14fd02ff0> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482
+14:43:10.762 testmanagerd[936:119549] -[XCTestManager _handleRequestForSessionWithIdentifier:]
+14:43:15.761 testmanagerd[936:119547] Considering exiting, 0 test sessions, 1 sessions with identifiers, 0 unidentified sessions...
+14:43:31.562 testmanagerd[936:119901] Received new test session connection (-[XCTestManager listener:shouldAcceptNewConnection:])
+14:43:31.565 testmanagerd[936:119547] Initial orientation 1
+14:43:31.567 testmanagerd[936:119902] Test session <__NSConcreteUUID 0x14fe242a0> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482 requested socket (-[XCTestSession _XCT_requestSocketForSessionIdentifier:reply:])
+14:43:31.567 testmanagerd[936:119901] Test session <__NSConcreteUUID 0x14fe242a0> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482 requested socket (__57-[XCTestManager requestSocketForSessionIdentifier:reply:]_block_invoke)
+14:43:31.567 testmanagerd[936:119901] -[XCTestManager _handleRequestForSessionWithIdentifier:]
+14:43:31.567 testmanagerd[936:119901] Closing IDE connection before sending socket 6 to test host.
+14:43:31.567 testmanagerd[936:119901] -[XCIDESession closeIDEConnection:] sending barrier
+14:43:31.568 testmanagerd[936:119547] barrier flushed, closing DTXConnection to IDE, socket will not be closed
+14:43:31.568 testmanagerd[936:119901] Socket disconnected
+14:43:31.568 testmanagerd[936:119903] __33-[XCTestManager closeIDESession:]_block_invoke <XCIDESession: 0x14fd17d10>
+14:43:31.568 testmanagerd[936:119901] Disconnecting lockdown socket
+14:43:31.568 testmanagerd[936:119903] Considering exiting, 1 test sessions, 0 sessions with identifiers, 0 unidentified sessions...
+14:43:31.678 testmanagerd[936:119547] Sending socket 6 to test host
+14:43:31.680 testmanagerd[936:119903] __33-[XCTestManager closeIDESession:]_block_invoke <XCIDESession: 0x14fd17d10>
+14:43:31.680 testmanagerd[936:119903] Considering exiting, 1 test sessions, 0 sessions with identifiers, 0 unidentified sessions...
+14:43:31.810 testmanagerd[936:119901] IDE connected via lockdown over socket 7 (__54-[XCTestManagerIDEServer initWithLockdownServiceName:]_block_invoke)
+14:43:31.810 testmanagerd[936:119901] Created session with socket 7
+14:43:31.812 testmanagerd[936:119917] Handled a proxy request from the IDE with session <XCIDESession: 0x14fd1f2f0> proxy <_DTXProxy: 0x14fe10d20>
+14:43:31.813 testmanagerd[936:119917] -[XCIDESession _IDE_initiateControlSessionForTestProcessID:protocolVersion:] 942 16
+14:43:31.813 testmanagerd[936:119547] Set control session <XCIDESession: 0x14fd1f2f0> with proto 16 and proxy <_DTXProxy: 0x14fe10d20>
+14:43:31.806 Xcode[3646:633437] Got whitelisting response and daemon protocol version 16
+14:43:31.398 LibraryNotFoundDemo[942:119855] Linked XCTest.framework from /var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/Frameworks/XCTest.framework/XCTest, built at Thursday, March 24, 2016 at 2:43:16 PM Eastern Daylight Time
+14:43:31.398 LibraryNotFoundDemo[942:119855] Process arguments: (
+    "/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/LibraryNotFoundDemo",
+    "-NSTreatUnknownArgumentsAsOpen",
+    NO,
+    "-ApplePersistenceIgnoreState",
+    YES
+)
+14:43:31.398 LibraryNotFoundDemo[942:119855] Process environment: {
+    "CFFIXED_USER_HOME" = "/private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C";
+    "CFLOG_FORCE_STDERR" = YES;
+    CLASSIC = 0;
+    "DTX_CONNECTION_SERVICES_PATH" = "/Developer/Library/PrivateFrameworks/DTXConnectionServices.framework";
+    "DYLD_FRAMEWORK_PATH" = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/Frameworks:/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks";
+    "DYLD_INSERT_LIBRARIES" = "";
+    "DYLD_LIBRARY_PATH" = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/Frameworks:/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks";
+    FBSClientLogging = 0;
+    HOME = "/private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C";
+    LOGNAME = mobile;
+    NSUnbufferedIO = YES;
+    "OBJC_DISABLE_GC" = YES;
+    PATH = "/usr/bin:/bin:/usr/sbin:/sbin";
+    SHELL = "/bin/sh";
+    TMPDIR = "/private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C/tmp";
+    USER = mobile;
+    XCInjectBundleInto = "/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app/LibraryNotFoundDemo";
+    "XCODE_DBG_XPC_EXCLUSIONS" = "com.apple.dt.xctestSymbolicator";
+    XCTestConfigurationFilePath = "/private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C/tmp/LibraryNotFoundDemoTests-8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482.xctestconfiguration";
+    "XPC_FLAGS" = 0x0;
+    "XPC_SERVICE_NAME" = "UIKitApplication:com.LibraryNotFoundDemo[0x7916]";
+    "__CF_USER_TEXT_ENCODING" = "0x1F5:0:0";
+}
+14:43:31.399 LibraryNotFoundDemo[942:119855] Loading DTXConnectionServices from /Developer/Library/PrivateFrameworks/DTXConnectionServices.framework
+14:43:31.558 LibraryNotFoundDemo[942:119855] Session ID <__NSConcreteUUID 0x144e00b50> 8ECE89CF-A7B9-4BBA-B60F-B93CA3DB4482
+14:43:31.559 LibraryNotFoundDemo[942:119855] Registering for testmanagerd availability notify post.
+14:43:31.559 LibraryNotFoundDemo[942:119855] testmanagerd availability confirmed via notify_get_state.
+14:43:31.560 LibraryNotFoundDemo[942:119855] Initiating connection to testmanagerd to request socket for IDE connection.
+14:43:31.680 LibraryNotFoundDemo[942:119892] Got socket 5 from daemon, making connection to IDE
+14:43:31.681 LibraryNotFoundDemo[942:119892] Creating connection with transport
+14:43:31.682 LibraryNotFoundDemo[942:119892] Resuming connection
+14:43:31.687 LibraryNotFoundDemo[942:119892] Messaging IDE proxy - _XCT_testBundleReadyWithProtocolVersion:16 minimumVersion:8
+14:43:31.813 Xcode[3646:80136] Starting test plan, clearing initialization timeout timer.
+14:43:31.832 LibraryNotFoundDemo[942:119855] -[XCTestDriver _runSuite]
+14:43:31.833 LibraryNotFoundDemo[942:119855] Loading test suite...
+14:43:23.324 installd[50] 0x16e1bb000 -[MIClientConnection _doBackgroundInstallationForPath:withOptions:completion:]: Install of "/var/mobile/Media/PublicStaging/LibraryNotFoundDemo.app" type Developer (LSInstallType = (null)) requested by streaming_zip_conduit (pid 216)
+14:43:23.370 installd[50] 0x16e1bb000 -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundle ID=com.LibraryNotFoundDemo; Version=1, ShortVersion=1.0>
+14:43:23.701 profiled[138] (Note ) MC: Provisioning profiles changed
+14:43:23.710 profiled[138] (Note ) MC: Updating MIS trust...
+14:43:23.718 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.847 LibraryNotFoundDemo[942:119855] Finished loading test suite, took 0.014s
+14:43:23.720 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:23.756 installd[50]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:23.759 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:23.760 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.850 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testBundleWillStart:]
+14:43:31.850 LibraryNotFoundDemo[942:119855] Running suite...
+14:43:23.761 installd[50]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:23.814 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:23.814 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.851 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testSuiteWillStart:]
+14:43:23.815 installd[50]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:31.837 Xcode[3646:633437] (LOG ARBITER) Dumping buffered message data; 0 messages.
+14:43:33.172 Xcode[3646:633368] (LOG ARBITER) Dumping buffered message data; 0 messages.
+14:43:31.834 Xcode[3646:80136] _XCT_testSuite:All tests didStartAt:2016-03-24 18:43:31 +0000
+14:43:23.827 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.853 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testSuiteWillStart:]
+14:43:31.834 Xcode[3646:80136] _XCT_testSuite:LibraryNotFoundDemoTests.xctest didStartAt:2016-03-24 18:43:31 +0000
+14:43:31.854 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testSuiteWillStart:]
+14:43:31.835 Xcode[3646:80136] _XCT_testSuite:LibraryNotFoundDemoTests didStartAt:2016-03-24 18:43:31 +0000
+14:43:23.828 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.855 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testCaseWillStart:] LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testExample
+14:43:31.836 Xcode[3646:80136] _XCT_testCaseDidStartForTestClass:LibraryNotFoundDemoTests.LibraryNotFoundDemoTests method:testExample
+14:43:31.856 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testCaseDidFinish:]
+14:43:31.837 Xcode[3646:80136] _XCT_testCaseDidFinishForTestClass:LibraryNotFoundDemoTests.LibraryNotFoundDemoTests method:testExample withStatus:passed duration:0.001078009605407715
+14:43:23.829 installd[50]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:23.884 installd[50] 0x16e1bb000 -[MIContainer makeContainerLiveReplacingContainer:reason:withError:]: Made container live for com.LibraryNotFoundDemo at /private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C
+14:43:31.692 LibraryNotFoundDemo[942:119898] _XCT_testBundleReadyWithProtocolVersion:minimumVersion: reply received
+14:43:31.826 LibraryNotFoundDemo[942:119890] _IDE_startExecutingTestPlanWithProtocolVersion:16
+Test Suite 'All tests' started at 2016-03-24 14:43:31.851
+Test Suite 'LibraryNotFoundDemoTests.xctest' started at 2016-03-24 14:43:31.853
+Test Suite 'LibraryNotFoundDemoTests' started at 2016-03-24 14:43:31.854
+Test Case '-[LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testExample]' started.
+Test Case '-[LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testExample]' passed (0.001 seconds).
+14:43:31.857 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testCaseWillStart:] LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testPerformanceExample
+14:43:31.850 Xcode[3646:80136] _XCT_testCaseDidStartForTestClass:LibraryNotFoundDemoTests.LibraryNotFoundDemoTests method:testPerformanceExample
+14:43:23.889 installd[50] 0x16e1bb000 -[MIContainer makeContainerLiveReplacingContainer:reason:withError:]: Made container live for com.LibraryNotFoundDemo at /private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8
+14:43:24.021 installd[50] 0x16e1bb000 -[MIInstaller performInstallationWithError:]: Install Successful; Staging: 0.00s; Waiting: 0.00s; Preflight/Patch: 0.32s, Verifying: 0.15s; Overall: 0.70s
+14:43:24.126 online-auth-agent[165]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:24.172 syncdefaultsd[937] (Note ) marked "com.me.keyvalueservice" topic as "opportunistic" on <APSConnection: 0x144526210>
+14:43:24.353 syncdefaultsd[937] (Note ) marked "com.me.keyvalueservice" topic as "enabled" on <APSConnection: 0x144526210>
+14:43:24.513 SpringBoard[58] Installed apps did change.
+Added: {(
+    "com.LibraryNotFoundDemo"
+)}
+Removed: {(
+)}
+Modified: {(
+)}
+14:43:24.537 UserEventAgent[26] Tracking com.LibraryNotFoundDemo (via LS)
+14:43:26.126 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+ for arm64.
+14:43:26.127 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] Connecting to com.apple.debugserver service...
+14:43:26.129 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] Got a connection, waiting for process information for launching or attaching.
+14:43:27.033 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] Sending AppProxy info: sequence no: 172, GUID: 2DE409D5-CA72-4FC3-8330-440C7EEE6F62.
+14:43:27.033 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] error: Unrecognized event type: .  Ignoring.
+14:43:27.034 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] About to launch process for bundle ID: com.LibraryNotFoundDemo
+14:43:27.061 SpringBoard[58]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:27.075 SpringBoard[58]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:27.276 SpringBoard[58] [MPUSystemMediaControls] Enabling lock screen media controls updates for screen turning on.
+14:43:27.284 backboardd[60] [HID] [MT] MTSimpleHIDManager::setPropertyInternal detection mode: 255->6 (deferring until bootloaded)
+14:43:27.288 backboardd[60] [HID] [MT] MTSimpleHIDManager::setPropertyInternal detection mode: 6->3 
+14:43:27.320 sharingd[63] 14:43:27.319 : BTLE scanning started
+14:43:27.323 SpringBoard[58]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:27.324 sharingd[63] 14:43:27.323 : Scanning mode Contacts Only
+14:43:27.327 sharingd[63] 14:43:27.327 : BTLE scanner Powered On
+14:43:27.358 SpringBoard[58] [MPUSystemMediaControls] Updating supported commands for now playing application.
+14:43:27.475 backboardd[60] [HID] [MT] MTSimpleHIDManager::deviceDidBootload device bootloaded
+14:43:27.481 backboardd[60] [HID] [MT] MTSimpleHIDManager::setPropertyInternal detection mode: 3->3 
+14:43:28.698 com.apple.xpc.launchd[1] The DisableASLR key is no longer respected. Please remove it.
+14:43:28.709 searchd[159] ====^^^^ DuetExpert missing data, count -> people:0 applicationDeepLinks:0 applications:8 requests:41 missingAllDataRequests:0
+14:43:28.710 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:28.710 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:28.711 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:28.000 kernel[0] xpcproxy[942] Container: /private/var/mobile/Containers/Data/Application/39EDDC8E-2223-48B6-BFA1-1E11E230983C (sandbox)
+14:43:28.776 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] In completion handler, got pid for bundle id, pid: 942.
+14:43:28.787 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] Got a connection, launched process /private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app (pid = 942).
+14:43:28.795 SpringBoard[58] LICreateIconForImage passed NULL CGImageRef image
+14:43:30.497 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.498 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.501 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.526 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.526 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.529 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.553 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.553 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.557 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.579 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.580 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.583 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.605 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.605 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.608 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.630 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.630 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.634 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.657 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.658 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.661 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.684 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.685 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.688 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.711 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.711 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.715 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:30.755 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.755 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:30.758 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:31.046 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.046 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.049 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:31.144 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.144 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.146 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:31.163 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.163 securityd[95]  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+14:43:31.165 amfid[238]  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+14:43:31.190 com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+[941] 1 +0.000000 sec [03ad/0c07]: error: ::mach_vm_region_recurse ( task = 0x270b, address => 0x1000000029, size => 0, nesting_depth => 1024, info => 0x16fd36ccc, infoCnt => 12) addr = 0x1000000029  err = (os/kern) invalid address (0x00000001)
+14:43:31.568 testmanagerd[936] BUG in libdispatch client: kevent[EVFILT_READ] delete: "Bad file descriptor" - 0x9
+14:43:32.141 coresymbolicationd[943] cache does not exist at /private/var/root/Library/Caches/com.apple.coresymbolicationd/13E233, resetting
+14:43:32.141 coresymbolicationd[943] unlink(/private/var/root/Library/Caches/com.apple.coresymbolicationd/13D15)
+Test Case '-[LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testPerformanceExample]' started.
+14:43:33.181 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver _testCase:didMeasureValues:forPerformanceMetricID:name:unitsOfMeasurement:baselineName:baselineAverage:maxPercentRegression:maxPercentRelativeStandardDeviation:maxRegression:maxStandardDeviation:file:line:]
+14:43:33.171 Xcode[3646:80136] -[_IDETestManagerAPIMediator _XCT_testMethod:ofClass:didMeasureMetric:file:line:]
+14:43:33.183 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testCaseDidFinish:]
+14:43:33.171 Xcode[3646:80136] _XCT_testCaseDidFinishForTestClass:LibraryNotFoundDemoTests.LibraryNotFoundDemoTests method:testPerformanceExample withStatus:passed duration:1.326309025287628
+14:43:33.184 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testSuiteDidFinish:]
+14:43:33.172 Xcode[3646:80136] _XCT_testSuite:LibraryNotFoundDemoTests didFinishAt:2016-03-24 18:43:33 +0000 runCount:2 withFailures:0 unexpected:0 testDuration:1.327387034893036 totalDuration:1.330070018768311
+14:43:33.185 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testSuiteDidFinish:]
+14:43:33.172 Xcode[3646:80136] _XCT_testSuite:LibraryNotFoundDemoTests.xctest didFinishAt:2016-03-24 18:43:33 +0000 runCount:2 withFailures:0 unexpected:0 testDuration:1.327387034893036 totalDuration:1.332238972187042
+14:43:33.187 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testSuiteDidFinish:]
+14:43:33.172 Xcode[3646:80136] _XCT_testSuite:All tests didFinishAt:2016-03-24 18:43:33 +0000 runCount:2 withFailures:0 unexpected:0 testDuration:1.327387034893036 totalDuration:1.335556030273438
+14:43:33.188 LibraryNotFoundDemo[942:119855] Finished running suite.
+14:43:33.188 LibraryNotFoundDemo[942:119855] -[_XCTestDriverTestObserver testBundleDidFinish:], Flushing connection to IDE...
+14:43:33.172 Xcode[3646:80136] -[_IDETestManagerAPIMediator _XCT_didFinishExecutingTestPlan]
+14:43:33.172 Xcode[3646:80136] _finishWithError:(null) didCancel: 0
+<unknown>:0: Test Case '-[LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 107.957%, values: [0.000009, 0.000002, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[LibraryNotFoundDemoTests.LibraryNotFoundDemoTests testPerformanceExample]' passed (1.326 seconds).
+Test Suite 'LibraryNotFoundDemoTests' passed at 2016-03-24 14:43:33.184.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 1.327 (1.330) seconds
+Test Suite 'LibraryNotFoundDemoTests.xctest' passed at 2016-03-24 14:43:33.185.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 1.327 (1.332) seconds
+14:43:33.195 testmanagerd[936:119902] Test process connection invalidated or interrupted, closing test session <XCTestSession: 0x14fe1cf70>.
+14:43:33.196 testmanagerd[936:119902] Closed <XCTestSession: 0x14fe1cf70>, removing from (
+    "<XCTestSession: 0x14fe1cf70>"
+)
+14:43:33.197 testmanagerd[936:119902] Tearing down test session <XCTestSession: 0x14fe1cf70>.
+14:43:33.197 testmanagerd[936:119902] Considering exiting, 0 test sessions, 0 sessions with identifiers, 0 unidentified sessions...
+14:43:33.198 testmanagerd[936:119902] testmanagerd exiting, idle with no test activity.
+14:43:33.181 Xcode[3646:80136] ############## DID EXECUTE #################
+14:43:33.187 Xcode[3646:80136] Launch session expired.
+14:43:33.195 SpringBoard[58] HW kbd: Failed to set (null) as keyboard focus

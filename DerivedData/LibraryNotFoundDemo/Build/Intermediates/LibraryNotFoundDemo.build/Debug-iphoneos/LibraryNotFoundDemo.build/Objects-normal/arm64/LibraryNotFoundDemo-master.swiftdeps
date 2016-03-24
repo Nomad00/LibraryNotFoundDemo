@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "0ba42fa9e1b5abe330f074a7d0f4ca88"
+build_time: [512160562, 338356000]
+inputs:
+  "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/LibraryNotFoundDemo/ViewController.swift": [512160186, 0]
+  "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/LibraryNotFoundDemo/AppDelegate.swift": [512160186, 0]

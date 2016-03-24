@@ -1,0 +1,102 @@
+14:50:16.229 Xcode[3646:80136] Beginning test session 0F162B11-1489-4F46-A4B7-0C3DE825144F with Xcode 7D175 on target <DVTiOSDevice: 0x7fccf8a7b420> {
+		deviceSerialNumber:         F2LNG4VTG5QF
+		identifier:                 e70895bfc760328340f4e149ce2ecb7cb9927f1a
+		deviceClass:                iPhone
+		deviceName:                 AWeber's iPhone
+		deviceIdentifier:           e70895bfc760328340f4e149ce2ecb7cb9927f1a
+		productVersion:             9.3
+		buildVersion:               13E233
+		deviceSoftwareVersion:      9.3 (13E233)
+		deviceArchitecture:         arm64
+		deviceTotalCapacity:        12358692864
+		deviceAvailableCapacity:    9907175424
+		deviceIsTransient:          NO
+		ignored:                    NO
+		deviceIsBusy:               NO
+		deviceIsActivated:          YES
+		deviceActivationState:      Activated
+		deviceType:                 <DVTDeviceType:0x7fccf2ff22a0 Xcode.DeviceType.iPhone>
+		supportedDeviceFamilies:    (
+    1
+)
+		applications:              {(
+    <DTDKApplication: 0x7fcce558d750>: Curate (/private/var/containers/Bundle/Application/B5969133-794B-43EA-A484-1A8977C1FB34/iComposer.app),
+    <DTDKApplication: 0x7fccf04e4710>: TestCocoaPodsIssue (/private/var/containers/Bundle/Application/49D13506-0750-4472-BAB1-7C9DE215E0C8/TestCocoaPodsIssue.app),
+    <DTDKApplication: 0x7fcce5584a20>: AWeber Atom (/private/var/containers/Bundle/Application/1BA26530-2080-4FB8-A9A9-58AB8F01B350/iSubscribe.app),
+    <DTDKApplication: 0x7fccf04e4760>: LibraryNotFoundDemo (/private/var/containers/Bundle/Application/58C1F55E-2D40-46C3-A734-313CFFF593E8/LibraryNotFoundDemo.app)
+)}
+		provisioningProfiles:      {(
+    0a37b9bb-5519-4b4b-80fb-f4c58e8cb3b7,
+    e9e07421-ff85-458a-accf-282ad87b0168,
+    f152c0f1-8496-42bd-8d50-afbbc82bb2fb,
+    29680d8b-53ab-4f40-bb3d-cf10a7914143,
+    3c38123b-083b-4553-a813-302bf6a82606,
+    002247d1-7d22-4796-9f58-4f0483f881ee,
+    1758d3b6-ebd0-41b8-9027-401cae820efe,
+    349fc6e4-47e4-4a84-a6d6-440c47cae466,
+    2074b244-0586-4a99-af4a-034f089062a4,
+    767abfa6-22a8-4c79-99b6-cc5499e74221
+)}
+		activityProgress:          -2
+		activityTitle:             
+		hasInternalSupport:        NO
+		isSupportedOS:             YES
+		developerDiskMountError:   (null)
+(null)
+	} (9.3 (13E233))
+14:50:16.229 Xcode[3646:80136] Launching with Xcode.DebuggerFoundation.Launcher.LLDB
+14:50:16.229 Xcode[3646:80136] Initializing test infrastructure.
+14:50:16.354 Xcode[3646:679847] Creating the connection.
+14:50:16.355 Xcode[3646:679847] Listening for proxy connection request from the test bundle (all platforms)
+14:50:16.355 Xcode[3646:679847] Resuming the connection.
+14:50:16.355 Xcode[3646:679847] Test connection requires daemon assistance.
+14:50:16.355 Xcode[3646:80136] Checking test manager availability..., will wait up to 120s
+14:50:16.355 Xcode[3646:80136] Starting test session with ID <__NSConcreteUUID 0x7fcce8788180> 0F162B11-1489-4F46-A4B7-0C3DE825144F
+14:50:16.385 Xcode[3646:679850] testmanagerd handled session request.
+14:50:16.385 Xcode[3646:80136] Waiting for test process to launch.
+14:50:25.743 Xcode[3646:80136] Launch session started, setting a disallow-finish-token on the run operation.
+14:50:25.889 Xcode[3646:679868] app uninstall set - {(
+)}
+14:50:25.889 Xcode[3646:679868] app install set - {(
+    <DVTFilePath:0x7fccf7ddae50:'/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/LibraryNotFoundDemo.app'>
+)}
+14:50:27.202 Xcode[3646:684698] remoteExecutable setInstalledPath:/private/var/containers/Bundle/Application/1C656539-CDEA-4EDC-972E-C16F52D2D402/LibraryNotFoundDemo.app
+
+14:50:27.203 Xcode[3646:684698] Updated test configuration with device paths: <XCTestConfiguration: 0x7fcce6430700>
+	                  testBundleURL:file:///private/var/containers/Bundle/Application/1C656539-CDEA-4EDC-972E-C16F52D2D402/LibraryNotFoundDemo.app/PlugIns/LibraryNotFoundDemoTests.xctest
+	         testBundleRelativePath:(null)
+	              productModuleName:LibraryNotFoundDemoTests
+	                    testsToSkip:(null)
+	                     testsToRun:(null)
+	             reportResultsToIDE:YES
+	              sessionIdentifier:<__NSConcreteUUID 0x7fcce8788180> 0F162B11-1489-4F46-A4B7-0C3DE825144F
+	     pathToXcodeReportingSocket:(null)
+	      disablePerformanceMetrics:no
+	treatMissingBaselinesAsFailures:no
+	                baselineFileURL:(null)
+	       baselineFileRelativePath:(null)
+	          targetApplicationPath:(null)
+	      targetApplicationBundleID:(null)
+	               reportActivities:no
+	       testsMustRunOnMainThread:no
+	         initializeForUITesting:no
+
+14:50:27.390 Xcode[3646:684698] Uploaded test configuration directory from: /var/folders/2f/wb6gd8fx3c985t58dwlt1cb8000246/T/com.apple.dt.XCTest/0F162B11-1489-4F46-A4B7-0C3DE825144F/remote-container
+14:50:27.390 Xcode[3646:684698] Updated testing environment variables {
+    "DTX_CONNECTION_SERVICES_PATH" = "/Developer/Library/PrivateFrameworks/DTXConnectionServices.framework";
+    "DYLD_FRAMEWORK_PATH" = "/private/var/containers/Bundle/Application/1C656539-CDEA-4EDC-972E-C16F52D2D402/LibraryNotFoundDemo.app/Frameworks:/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks";
+    "DYLD_INSERT_LIBRARIES" = "/private/var/containers/Bundle/Application/1C656539-CDEA-4EDC-972E-C16F52D2D402/LibraryNotFoundDemo.app/Frameworks/IDEBundleInjection.framework/IDEBundleInjection";
+    "DYLD_LIBRARY_PATH" = "/private/var/containers/Bundle/Application/1C656539-CDEA-4EDC-972E-C16F52D2D402/LibraryNotFoundDemo.app/Frameworks:/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks";
+    "OBJC_DISABLE_GC" = YES;
+    XCInjectBundleInto = "/private/var/containers/Bundle/Application/1C656539-CDEA-4EDC-972E-C16F52D2D402/LibraryNotFoundDemo.app/LibraryNotFoundDemo";
+    "XCODE_DBG_XPC_EXCLUSIONS" = "com.apple.dt.xctestSymbolicator";
+    XCTestConfigurationFilePath = "/private/var/mobile/Containers/Data/Application/97E17D19-9A89-4D51-B2B5-B1949540729E/tmp/LibraryNotFoundDemoTests-0F162B11-1489-4F46-A4B7-0C3DE825144F.xctestconfiguration";
+}
+14:50:28.512 Xcode[3646:684698] Started debugserver on device. fd = 85
+14:50:29.278 Xcode[3646:80136] Adding console adaptor <IDEConsoleAdaptor: 0x7fccf7d67df0 'target'> for test session 0F162B11-1489-4F46-A4B7-0C3DE825144F.
+14:50:31.600 Xcode[3646:80136] Launch session finished initial intensive file IO.
+14:50:31.600 Xcode[3646:80136] Waiting for test process to check in..., will wait up to 120s
+14:50:33.132 Xcode[3646:80136] ############## DID EXECUTE #################
+14:50:33.137 Xcode[3646:80136] Launch session expired.
+14:50:33.146 Xcode[3646:80136] Test operation failure: Launch session expired before checking in.
+14:50:33.146 Xcode[3646:80136] _finishWithError:Error Domain=IDETestOperationsObserverErrorDomain Code=4 "Launch session expired before checking in." UserInfo={NSLocalizedDescription=Launch session expired before checking in.} didCancel: 1

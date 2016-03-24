@@ -1,0 +1,137 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/OCMock/OCMock.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+OCMAdditions.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/NSNotificationCenter+OCMAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMArg.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMArg.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMConstraint.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMFunctions.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMFunctions.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMLocation.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMLocation.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMMacroState.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMMacroState.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMRecorder.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMRecorder.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMStubRecorder.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMStubRecorder.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMock-Swift.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/OCMock/OCMock.framework/Headers/OCMock-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMock-umbrella.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/Target Support Files/OCMock/OCMock-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMock.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMock.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCMockObject.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/OCMock/Source/OCMock/OCMockObject.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/OCMock/OCMock.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Intermediates/Pods.build/Debug-iphoneos/OCMock.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/Pods_LibraryNotFoundDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-LibraryNotFoundDemo-umbrella.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/Target Support Files/Pods-LibraryNotFoundDemo/Pods-LibraryNotFoundDemo-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_LibraryNotFoundDemo-Swift.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/Pods_LibraryNotFoundDemo.framework/Headers/Pods_LibraryNotFoundDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/Pods_LibraryNotFoundDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-LibraryNotFoundDemo.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/Pods_LibraryNotFoundDemoTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-LibraryNotFoundDemoTests-umbrella.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/Pods/Target Support Files/Pods-LibraryNotFoundDemoTests/Pods-LibraryNotFoundDemoTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_LibraryNotFoundDemoTests-Swift.h",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/Pods_LibraryNotFoundDemoTests.framework/Headers/Pods_LibraryNotFoundDemoTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Products/Debug-iphoneos/Pods_LibraryNotFoundDemoTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mikejs/Coding/git_projects/LibraryNotFoundDemo/DerivedData/LibraryNotFoundDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-LibraryNotFoundDemoTests.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
